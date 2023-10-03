@@ -1,0 +1,4843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="295753">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2716</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671458269</timecreated>
+    <timemodified>1671458284</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/​​Module Goals (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295754">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2716</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295755">
+    <contenthash>d3657aa893325d69af3a0d7193eff0c92ebf7011</contenthash>
+    <contextid>64851</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-OCTAE.png</filename>
+    <userid>26700</userid>
+    <filesize>1817573</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671459118</timecreated>
+    <timemodified>1671459205</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Background Knowledge  (Page)/Page content/video-poster-OCTAE.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295756">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64851</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295757">
+    <contenthash>45b5ff85f2f8f79e31410cd78baa49a9af76f8ef</contenthash>
+    <contextid>64851</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>video-poster-travis.jpg</filename>
+    <userid>26700</userid>
+    <filesize>421292</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1671459156</timecreated>
+    <timemodified>1671459205</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Background Knowledge  (Page)/Page content/video-poster-travis.jpg</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295758">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64851</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671459182</timecreated>
+    <timemodified>1671459205</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Course section summaries/5. Assessment/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295759">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64851</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1 (2).png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1675262356</timecreated>
+    <timemodified>1689175034</timemodified>
+    <source>Server files: Sandbox/Learning that Works for All/Review Your Initial Thoughts (Page)/Page content/divider-wave-1 (2).png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295760">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64852</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1669070118</timecreated>
+    <timemodified>1669070158</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Challenge: UDL  (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295761">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64852</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295762">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64853</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-resources.png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1669070222</timecreated>
+    <timemodified>1669070298</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Here's Your Challenge  (Page)/Page content/octae-icon-resources.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295763">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64853</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295764">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64853</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1669070273</timecreated>
+    <timemodified>1669070298</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Introduction (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295765">
+    <contenthash>83abfd1b1206c1cd8ae2e6f69364ed057f8976b4</contenthash>
+    <contextid>64854</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>icon-goals (1).png</filename>
+    <userid>26700</userid>
+    <filesize>23343</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1669071026</timecreated>
+    <timemodified>1669071151</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Module Goals (Page)/Page content/icon-goals (1).png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295766">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64854</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295767">
+    <contenthash>83abfd1b1206c1cd8ae2e6f69364ed057f8976b4</contenthash>
+    <contextid>64854</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>icon-goals (1).png</filename>
+    <userid>26700</userid>
+    <filesize>23343</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1669071101</timecreated>
+    <timemodified>1669071151</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Module Goals (Page)/Page content/icon-goals (1).png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295768">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64854</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295769">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64854</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1669071144</timecreated>
+    <timemodified>1669071151</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Try it Yourself (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295770">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2717</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671458318</timecreated>
+    <timemodified>1671458325</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Course section summaries/1. Introduction/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295771">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2717</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295772">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64855</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671459608</timecreated>
+    <timemodified>1671459656</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Background Knowledge (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295773">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64855</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295774">
+    <contenthash>3ecfa7d85d634eaed48e659208481cdf25a7286f</contenthash>
+    <contextid>64856</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Irvin the Fire Fighter.jpg</filename>
+    <userid>26700</userid>
+    <filesize>16512</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668893053</timecreated>
+    <timemodified>1668893252</timemodified>
+    <source>Irvine.jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295775">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64856</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295776">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64856</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672694768</timecreated>
+    <timemodified>1672694784</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Module Structure (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295777">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64856</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Pro Tips.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697669</timecreated>
+    <timemodified>1672697688</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Strategies for Reducing the Impact of Stereotype (Page)/Page content/Pro Tips.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295778">
+    <contenthash>3ecfa7d85d634eaed48e659208481cdf25a7286f</contenthash>
+    <contextid>64857</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Irvin the Fire Fighter.jpg</filename>
+    <userid>26700</userid>
+    <filesize>16512</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668893293</timecreated>
+    <timemodified>1668893515</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Case Study: Designing the Learning Environment​ (Page)/Page content/Irvin the Fire Fighter.jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295779">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64857</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295780">
+    <contenthash>3ecfa7d85d634eaed48e659208481cdf25a7286f</contenthash>
+    <contextid>64857</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Irvin the Fire Fighter (1).jpg</filename>
+    <userid>26700</userid>
+    <filesize>16512</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668893328</timecreated>
+    <timemodified>1668893515</timemodified>
+    <source>Irvin the Fire Fighter.jpg</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295781">
+    <contenthash>3ecfa7d85d634eaed48e659208481cdf25a7286f</contenthash>
+    <contextid>64857</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Irvin the Fire Fighter (1).jpg</filename>
+    <userid>26700</userid>
+    <filesize>16512</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668893353</timecreated>
+    <timemodified>1668893515</timemodified>
+    <source>Server files: Irvin the Fire Fighter.jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295782">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64857</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295783">
+    <contenthash>3ecfa7d85d634eaed48e659208481cdf25a7286f</contenthash>
+    <contextid>64857</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Irvin the Fire Fighter.jpg</filename>
+    <userid>26700</userid>
+    <filesize>16512</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668893365</timecreated>
+    <timemodified>1668893515</timemodified>
+    <source>Server files: Irvin the Fire Fighter.jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295784">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64857</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671461008</timecreated>
+    <timemodified>1671461017</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/2.Challenge (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295785">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64857</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Try It Yourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697621</timecreated>
+    <timemodified>1672697645</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Case-Based Learning and Expert Learners​ (Page)/Page content/Try It Yourself.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295786">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64857</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1673018354</timecreated>
+    <timemodified>1673018386</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Try it Yourself: Materials  (Page)/Page content/octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295787">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2718</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671458820</timecreated>
+    <timemodified>1671458826</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Course section summaries/4. Wrap Up/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295788">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2718</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295789">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64858</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671461777</timecreated>
+    <timemodified>1671461784</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Case-Based Learning and Expert Learners​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295790">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64858</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295791">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64859</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668899708</timecreated>
+    <timemodified>1668899762</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Before You Start: Let’s Try Something…  (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295792">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64859</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295793">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64859</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671461824</timecreated>
+    <timemodified>1671461832</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/3. New Learning (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295794">
+    <contenthash>ef331d9cf668abc0d97059d9ffc7c579c545feaf</contenthash>
+    <contextid>64859</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>download.png</filename>
+    <userid>26700</userid>
+    <filesize>14938</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697529</timecreated>
+    <timemodified>1672697549</timemodified>
+    <source>Server files: download.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295795">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668899329</timecreated>
+    <timemodified>1668899349</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Incorporate Think-Pair-Share​ (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295796">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295797">
+    <contenthash>7a9d71ac827fb7da2fc79323b90b008c40f5eb7b</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Everyday Math.png</filename>
+    <userid>26700</userid>
+    <filesize>938133</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668899425</timecreated>
+    <timemodified>1668899466</timemodified>
+    <source>octae-math-realworld.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295798">
+    <contenthash>7a9d71ac827fb7da2fc79323b90b008c40f5eb7b</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math (1).png</filename>
+    <userid>26700</userid>
+    <filesize>938133</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672695825</timecreated>
+    <timemodified>1672695960</timemodified>
+    <source>Math.png</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295799">
+    <contenthash>7a9d71ac827fb7da2fc79323b90b008c40f5eb7b</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math (2).png</filename>
+    <userid>26700</userid>
+    <filesize>938133</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672695831</timecreated>
+    <timemodified>1672695960</timemodified>
+    <source>Math (1).png</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295800">
+    <contenthash>7a9d71ac827fb7da2fc79323b90b008c40f5eb7b</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math (3).png</filename>
+    <userid>26700</userid>
+    <filesize>938133</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672695844</timecreated>
+    <timemodified>1672695960</timemodified>
+    <source>Math (2).png</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295801">
+    <contenthash>7a9d71ac827fb7da2fc79323b90b008c40f5eb7b</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math (4).png</filename>
+    <userid>26700</userid>
+    <filesize>938133</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672695852</timecreated>
+    <timemodified>1672695960</timemodified>
+    <source>Math (3).png</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295802">
+    <contenthash>7a9d71ac827fb7da2fc79323b90b008c40f5eb7b</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math (5).png</filename>
+    <userid>26700</userid>
+    <filesize>938133</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672695859</timecreated>
+    <timemodified>1672695960</timemodified>
+    <source>Math (4).png</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295803">
+    <contenthash>7a9d71ac827fb7da2fc79323b90b008c40f5eb7b</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math (6).png</filename>
+    <userid>26700</userid>
+    <filesize>938133</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672695874</timecreated>
+    <timemodified>1672695960</timemodified>
+    <source>Math (5).png</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295804">
+    <contenthash>7a9d71ac827fb7da2fc79323b90b008c40f5eb7b</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math.png</filename>
+    <userid>26700</userid>
+    <filesize>938133</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672695914</timecreated>
+    <timemodified>1672695960</timemodified>
+    <source>Server files: Math.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295805">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64860</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Additional Resources (1).png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697479</timecreated>
+    <timemodified>1672697506</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Why Does a Positive Math Mindset Matter?  (Page)/Page content/Additional Resources (1).png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295806">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64861</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668899507</timecreated>
+    <timemodified>1668899525</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Everyone Uses Math  (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295807">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64861</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295808">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64862</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668899587</timecreated>
+    <timemodified>1668899612</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/What is a Mindset?  (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295809">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64862</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200579</timecreated>
+    <timemodified>1694200579</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295810">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64862</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Try It Yourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697397</timecreated>
+    <timemodified>1672697453</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Expert Learning  (Page)/Page content/Try It Yourself.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295811">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64862</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Additional Resources (1).png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697432</timecreated>
+    <timemodified>1672697453</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Module Structure (Page)/Page content/Additional Resources (1).png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295812">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64863</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671462322</timecreated>
+    <timemodified>1671462330</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Idea: Our mindset about learning impacts the results we get.  (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295813">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64863</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295814">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64863</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Key Idea.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697340</timecreated>
+    <timemodified>1672697357</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Key Idea: Everyone can be an expert learner. (Page)/Page content/Key Idea.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295815">
+    <contenthash>a33511132d6fccf7753ff9288c4b217a3aac3e1d</contenthash>
+    <contextid>64864</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>download.png</filename>
+    <userid>26700</userid>
+    <filesize>31260</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668896655</timecreated>
+    <timemodified>1668896737</timemodified>
+    <source>download.png</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295816">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64864</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295817">
+    <contenthash>a33511132d6fccf7753ff9288c4b217a3aac3e1d</contenthash>
+    <contextid>64864</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>download (1).png</filename>
+    <userid>26700</userid>
+    <filesize>31260</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668896657</timecreated>
+    <timemodified>1668896737</timemodified>
+    <source>download.png</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295818">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64864</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668899664</timecreated>
+    <timemodified>1668899677</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Why Does a Positive Math Mindset Matter?  (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295819">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64865</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668899913</timecreated>
+    <timemodified>1668899941</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Idea: Our mindset about learning impacts the results we get.  (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295820">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64865</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295821">
+    <contenthash>ee8d156037e73d74d1ad562ed316086c01afe461</contenthash>
+    <contextid>64866</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Eve.jpg</filename>
+    <userid>26700</userid>
+    <filesize>153590</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668900001</timecreated>
+    <timemodified>1668900053</timemodified>
+    <source>video-poster-eve.jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295822">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64866</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295823">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64866</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668900037</timecreated>
+    <timemodified>1668900053</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/The Impact of the Past on Students’ Ability to Learn Math  (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295824">
+    <contenthash>ee8d156037e73d74d1ad562ed316086c01afe461</contenthash>
+    <contextid>64866</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Eve .jpg</filename>
+    <userid>26700</userid>
+    <filesize>153590</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1672696856</timecreated>
+    <timemodified>1672696887</timemodified>
+    <source>video-poster-eve (1).jpg</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295825">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64867</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668900129</timecreated>
+    <timemodified>1668900144</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Shame &amp;amp; Fear with Learning (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295826">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64867</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295827">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64868</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668900219</timecreated>
+    <timemodified>1668900379</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Stereotype Threat as a Barrier to Learning Math (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295828">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64868</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295829">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64869</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668900163</timecreated>
+    <timemodified>1668900191</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Math Anxiety is Transferable (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295830">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64869</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295831">
+    <contenthash>4aa7ebca8c3f95c43b288f9c82d8cb38a1be9941</contenthash>
+    <contextid>64869</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Sterero Types in Math.png</filename>
+    <userid>26700</userid>
+    <filesize>60135</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1674087691</timecreated>
+    <timemodified>1674087714</timemodified>
+    <source>CleanShot 2023-01-09 at 11.27.00.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295832">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64870</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668900404</timecreated>
+    <timemodified>1668900472</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Math Anxiety and Stereotype Threat (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295833">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64870</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295834">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64870</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Pro Tips.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697242</timecreated>
+    <timemodified>1672697749</timemodified>
+    <source>Server files: Pro Tips.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295835">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64871</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671463266</timecreated>
+    <timemodified>1671463275</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Idea: Emotions impact students’ ability to learn math. (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295836">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64871</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295837">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64871</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Key Idea.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697798</timecreated>
+    <timemodified>1672697821</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Idea: Emotions impact students’ ability to learn math. (Page)/Page content/Key Idea.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295838">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64872</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668900505</timecreated>
+    <timemodified>1668900516</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Strategies for Reducing the Impact of Stereotype (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295839">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64872</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295840">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64872</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Additional Resources (1).png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697861</timecreated>
+    <timemodified>1672697901</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Everyone Uses Math  (Page)/Page content/Additional Resources (1).png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295841">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64873</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668900559</timecreated>
+    <timemodified>1668900567</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Support a Growth Mindset by Teaching Adults About Neuroplasticity  (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295842">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64873</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295843">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64873</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Additional Resources (1).png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697929</timecreated>
+    <timemodified>1672697966</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Support a Growth Mindset by Teaching Adults About Neuroplasticity  (Page)/Page content/Additional Resources (1).png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295844">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64874</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698221</timecreated>
+    <timemodified>1672698330</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Case Study: Designing the Learning Environment​ (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295845">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64874</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295846">
+    <contenthash>3988e5226fa87b27eb99a075f591fc3d7c9eaae9</contenthash>
+    <contextid>64874</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Dr. Jo Boalers Ted Talk Thumbnail.png</filename>
+    <userid>26700</userid>
+    <filesize>853603</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1674087938</timecreated>
+    <timemodified>1674087962</timemodified>
+    <source>CleanShot 2023-01-09 at 11.11.07.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295847">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64875</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668900624</timecreated>
+    <timemodified>1668901087</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Use Mastery-Oriented Feedback (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295848">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64875</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295849">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64875</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Pro Tips.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698019</timecreated>
+    <timemodified>1672698042</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Case Study: Designing the Learning Environment​ (Page)/Page content/Pro Tips.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295850">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64876</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668901541</timecreated>
+    <timemodified>1668901668</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Strategies for Supporting Growth Mindset (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295851">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64876</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295852">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64876</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Try It Yourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698083</timecreated>
+    <timemodified>1672698116</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Here's Your Challenge (Page)/Page content/Try It Yourself.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295853">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64877</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Key Idea.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698374</timecreated>
+    <timemodified>1672698420</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Idea: Developing a growth mindset can help learners reframe feelings of failure as opportunities for learning. (Page)/Page content/Key Idea.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295854">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64877</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295855">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64877</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698435</timecreated>
+    <timemodified>1672698442</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Stop and Reflect on Removing Barriers in Math (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295856">
+    <contenthash>ee8d156037e73d74d1ad562ed316086c01afe461</contenthash>
+    <contextid>64878</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Eve .jpg</filename>
+    <userid>26700</userid>
+    <filesize>153590</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1672698473</timecreated>
+    <timemodified>1672698627</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Shame &amp;amp; Fear with Learning (Page)/Page content/Eve .jpg</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295857">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64878</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295858">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64878</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Try It Yourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698575</timecreated>
+    <timemodified>1672698627</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Instructors Need a Growth Mindset, Too (Page)/Page content/Try It Yourself.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295859">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64878</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698606</timecreated>
+    <timemodified>1672698627</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Idea: Provide scaffolds for all learners. (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295860">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64879</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698767</timecreated>
+    <timemodified>1672698780</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/What is Necessary for Some, Benefits all in Math  (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295861">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64879</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295862">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64880</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Additional Resources (1).png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698835</timecreated>
+    <timemodified>1672698877</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Use Mastery-Oriented Feedback (Page)/Page content/Additional Resources (1).png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295863">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64880</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295864">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64880</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698859</timecreated>
+    <timemodified>1672698877</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Scaffolds that Support Understanding in Math (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295865">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64881</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698912</timecreated>
+    <timemodified>1672699024</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/1. Text-to-speech technology  (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295866">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64881</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295867">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64881</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Additional Resources (1).png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698941</timecreated>
+    <timemodified>1672699024</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/1. Text-to-speech technology  (Page)/Page content/Additional Resources (1).png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295868">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64881</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Pro Tips.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698966</timecreated>
+    <timemodified>1672699024</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Strategies for Supporting Growth Mindset (Page)/Page content/Pro Tips.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295869">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64881</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Try It Yourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699000</timecreated>
+    <timemodified>1672699024</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/What is Necessary for Some, Benefits all in Math  (Page)/Page content/Try It Yourself.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295870">
+    <contenthash>171f3d42754689cd14634fac6c53c0f43861a06a</contenthash>
+    <contextid>64881</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math Graphic Organizier .png</filename>
+    <userid>26700</userid>
+    <filesize>36858</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1674087516</timecreated>
+    <timemodified>1674087549</timemodified>
+    <source>CleanShot 2023-01-09 at 11.12.51.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295871">
+    <contenthash>171f3d42754689cd14634fac6c53c0f43861a06a</contenthash>
+    <contextid>64881</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math Graphic Organizier  (1).png</filename>
+    <userid>26700</userid>
+    <filesize>36858</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1674087541</timecreated>
+    <timemodified>1674087587</timemodified>
+    <source>Server files: Math Graphic Organizier  (1).png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295872">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64882</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Try It Yourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699201</timecreated>
+    <timemodified>1672699233</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/2. Graphic Organizers  (Page)/Page content/Try It Yourself.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295873">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64882</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295874">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64882</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699220</timecreated>
+    <timemodified>1672699233</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/2. Graphic Organizers  (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295875">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64883</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Try It Yourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699365</timecreated>
+    <timemodified>1672699421</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/3. Think-Pair-Share (Page)/Page content/Try It Yourself.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295876">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64883</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295877">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64883</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Additional Resources (1).png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699385</timecreated>
+    <timemodified>1672699421</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/2. Graphic Organizers  (Page)/Page content/Additional Resources (1).png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295878">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64883</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699405</timecreated>
+    <timemodified>1672699421</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/3. Think-Pair-Share (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295879">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64884</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Additional Resources (1).png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699653</timecreated>
+    <timemodified>1672699714</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/4. Activating Background Knowledge (Page)/Page content/Additional Resources (1).png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295880">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64884</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295881">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64884</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699698</timecreated>
+    <timemodified>1672699714</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/4. Activating Background Knowledge (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295882">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64885</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Key Idea.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699734</timecreated>
+    <timemodified>1672699769</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Idea: Provide scaffolds for all learners. (Page)/Page content/Key Idea.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295883">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64885</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295884">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64885</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Divider Wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699760</timecreated>
+    <timemodified>1672699769</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/5. Chunking Steps (Page)/Page content/Divider Wave.png</source>
+    <author>Katie Phillips</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295885">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64886</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699793</timecreated>
+    <timemodified>1672699821</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Text-to-Speech Try It Yourself (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295886">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64886</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295887">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64886</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-icon-tryityourself.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1673023548</timecreated>
+    <timemodified>1673023626</timemodified>
+    <source>Server files: octae-icon-tryityourself.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295888">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64887</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Pro Tip.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699290</timecreated>
+    <timemodified>1672699310</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Five Principles of Extraordinary Math Teaching (Page)/Page content/Pro Tip.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295889">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64887</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200580</timecreated>
+    <timemodified>1694200580</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295890">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64887</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699305</timecreated>
+    <timemodified>1672699310</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Stop and Reflect on Flipping the Classroom (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295891">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64888</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699253</timecreated>
+    <timemodified>1672699267</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/The Connection Between Literacy and Math (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295892">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64888</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295893">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64889</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Key Idea.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699087</timecreated>
+    <timemodified>1672699108</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Ideas: Make Math Matter (Page)/Page content/Key Idea.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295894">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64889</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295895">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64889</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699121</timecreated>
+    <timemodified>1672699127</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Make Math Real (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295896">
+    <contenthash>ee8d156037e73d74d1ad562ed316086c01afe461</contenthash>
+    <contextid>64890</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Eve.jpg</filename>
+    <userid>26700</userid>
+    <filesize>153590</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1672698869</timecreated>
+    <timemodified>1672698978</timemodified>
+    <source>video-poster-eve (1).jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295897">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64890</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295898">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64890</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Resources.png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698959</timecreated>
+    <timemodified>1672698978</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Five Principles of Extraordinary Math Teaching (Page)/Page content/Resources.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295899">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64890</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699144</timecreated>
+    <timemodified>1672699152</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Idea: Make the learning relevant. (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295900">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64891</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698746</timecreated>
+    <timemodified>1672698751</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Establish Clear Math Goals  (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295901">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64891</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295902">
+    <contenthash>83abfd1b1206c1cd8ae2e6f69364ed057f8976b4</contenthash>
+    <contextid>64892</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Goals.png</filename>
+    <userid>26700</userid>
+    <filesize>23343</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698611</timecreated>
+    <timemodified>1672698718</timemodified>
+    <source>octae-icon-goals.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295903">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64892</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295904">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64892</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698697</timecreated>
+    <timemodified>1672698718</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Five Principles of Extraordinary Math Teaching (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295905">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64893</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Pro Tip.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698438</timecreated>
+    <timemodified>1672698506</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Pro Tips: Make Math Matter (Page)/Page content/Pro Tip.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295906">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64893</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295907">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64893</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Resources.png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698462</timecreated>
+    <timemodified>1672698506</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Additional Resources (Page)/Page content/Resources.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295908">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64893</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698487</timecreated>
+    <timemodified>1672698506</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Course section summaries/4. Wrap Up/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295909">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2719</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671458736</timecreated>
+    <timemodified>1671458796</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Course section summaries/2. Challenge/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295910">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2719</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295911">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64894</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1669070428</timecreated>
+    <timemodified>1669070661</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Module Structure​ (Page)/Page content/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295912">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64894</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295913">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64895</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668892865</timecreated>
+    <timemodified>1668892889</timemodified>
+    <source>Server files: Sandbox/Universal Design for Learning: Learning that Works for All/Course section summaries/1. Introduction/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295914">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64895</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295915">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64896</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668894426</timecreated>
+    <timemodified>1668894559</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Communicate high expectations for all ​ (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295916">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64896</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295917">
+    <contenthash>633c6f234ac063e1806c8ec1207ddf7e651fd883</contenthash>
+    <contextid>64896</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Key Idea.png</filename>
+    <userid>26700</userid>
+    <filesize>85997</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697883</timecreated>
+    <timemodified>1672697919</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Key Idea:  Use the concept of Expert Learning to create an “Expert Learning System.” (Page)/Page content/Key Idea.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295918">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64897</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668895144</timecreated>
+    <timemodified>1668895544</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Ideas: Make Math Matter (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295919">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64897</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295920">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64897</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668895144</timecreated>
+    <timemodified>1668895544</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Key Ideas: Make Math Matter (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295921">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64897</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295922">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64897</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Pro Tip.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697963</timecreated>
+    <timemodified>1672697986</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Signs of Expert Learning: Learners​ ​ (Page)/Page content/Pro Tip.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295923">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64898</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668895767</timecreated>
+    <timemodified>1668895786</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Pro Tips: Make Math Matter (Page)/Description/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295924">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64898</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295925">
+    <contenthash>f2a40a555bdeff89e84714f037053fe9e880cae2</contenthash>
+    <contextid>64898</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Pro Tip.png</filename>
+    <userid>26700</userid>
+    <filesize>51894</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698100</timecreated>
+    <timemodified>1672698127</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Pro Tips: Make Math Matter (Page)/Page content/Pro Tip.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295926">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64899</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668896367</timecreated>
+    <timemodified>1668896385</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Additional Resources (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295927">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64899</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694631647</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295928">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64900</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668896245</timecreated>
+    <timemodified>1668896264</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Try it Yourself Materials (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295929">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64900</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295930">
+    <contenthash>c75936e30ae969e0bed7647c05dff97b903be089</contenthash>
+    <contextid>64900</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Resources.png</filename>
+    <userid>26700</userid>
+    <filesize>52593</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672698304</timecreated>
+    <timemodified>1672698323</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Additional Resources (Page)/Page content/Resources.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295931">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64901</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668896471</timecreated>
+    <timemodified>1668896485</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Technology Tools (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295932">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64901</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295933">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2720</itemid>
+    <filepath>/</filepath>
+    <filename>divider-wave-1.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1671458848</timecreated>
+    <timemodified>1671458857</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Course section summaries/3. New Learning/divider-wave-1.png</source>
+    <author>Cassandra Sell</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295934">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2720</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694701746</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295935">
+    <contenthash>3ecfa7d85d634eaed48e659208481cdf25a7286f</contenthash>
+    <contextid>64903</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Irvin the Fire Fighter (1).jpg</filename>
+    <userid>26700</userid>
+    <filesize>16512</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668896804</timecreated>
+    <timemodified>1668897208</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Here's Your Challenge (Page)/Description/Irvin the Fire Fighter (1).jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295936">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64903</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295937">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64903</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668896854</timecreated>
+    <timemodified>1668897208</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/References (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295938">
+    <contenthash>3ecfa7d85d634eaed48e659208481cdf25a7286f</contenthash>
+    <contextid>64903</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Irvin the Fire Fighter (1).jpg</filename>
+    <userid>26700</userid>
+    <filesize>16512</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668897005</timecreated>
+    <timemodified>1668897208</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Here's Your Challenge (Page)/Description/Irvin the Fire Fighter (1).jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295939">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64903</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295940">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64903</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668897186</timecreated>
+    <timemodified>1668897208</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/References (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295941">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64905</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668894110</timecreated>
+    <timemodified>1668894147</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Reviewing the Initial Challenge (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295942">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64905</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295943">
+    <contenthash>899b3f4fa8f8b1e93c830a0539a8ec67db3d1741</contenthash>
+    <contextid>64905</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>UDL Graphic Organizer Principles.jpg</filename>
+    <userid>26700</userid>
+    <filesize>490953</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1672697138</timecreated>
+    <timemodified>1672697173</timemodified>
+    <source>UDL-GraphicOrganizer-principles.jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295944">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64906</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668897662</timecreated>
+    <timemodified>1668897691</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Case-Based Learning and Expert Learners​ (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295945">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64906</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295946">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64906</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668897662</timecreated>
+    <timemodified>1668897691</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Case-Based Learning and Expert Learners​ (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295947">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64906</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295948">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64907</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668897767</timecreated>
+    <timemodified>1668897779</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/ Focus on the process, not just the outcome​ (Page)/Description/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295949">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64907</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295950">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64908</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668898308</timecreated>
+    <timemodified>1668898511</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Teach adult learners about Universal Designs for Learning​ (Page)/Description/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295951">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64908</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295952">
+    <contenthash>e08377d1ee2e724f942fd055b67b3c4a8255dc81</contenthash>
+    <contextid>64908</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>download.jpg</filename>
+    <userid>26700</userid>
+    <filesize>21401</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668898419</timecreated>
+    <timemodified>1668898511</timemodified>
+    <source>download.jpg</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295953">
+    <contenthash>e08377d1ee2e724f942fd055b67b3c4a8255dc81</contenthash>
+    <contextid>64908</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>download (1).jpg</filename>
+    <userid>26700</userid>
+    <filesize>21401</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668898422</timecreated>
+    <timemodified>1668898511</timemodified>
+    <source>download.jpg</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295954">
+    <contenthash>e08377d1ee2e724f942fd055b67b3c4a8255dc81</contenthash>
+    <contextid>64908</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>download (2).jpg</filename>
+    <userid>26700</userid>
+    <filesize>21401</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668898424</timecreated>
+    <timemodified>1668898511</timemodified>
+    <source>download (1).jpg</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295955">
+    <contenthash>e08377d1ee2e724f942fd055b67b3c4a8255dc81</contenthash>
+    <contextid>64908</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>download (3).jpg</filename>
+    <userid>26700</userid>
+    <filesize>21401</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668898426</timecreated>
+    <timemodified>1668898511</timemodified>
+    <source>download (2).jpg</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295956">
+    <contenthash>f658d40b0165b642c8be293a7f2d9f85ddce84e5</contenthash>
+    <contextid>64908</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math Goals Self Assessment.png</filename>
+    <userid>26700</userid>
+    <filesize>24068</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697468</timecreated>
+    <timemodified>1672697539</timemodified>
+    <source>Pages from 2004 Setting GoalsToolkit.CDE.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295957">
+    <contenthash>f658d40b0165b642c8be293a7f2d9f85ddce84e5</contenthash>
+    <contextid>64908</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math Goals Self Assessment (1).png</filename>
+    <userid>26700</userid>
+    <filesize>24068</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672697509</timecreated>
+    <timemodified>1672697580</timemodified>
+    <source>Server files: Math Goals Self Assessment (1).png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295958">
+    <contenthash>291ebffb12009db6593b9af5923edc4810406781</contenthash>
+    <contextid>64909</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math Speaker.jpg</filename>
+    <userid>26700</userid>
+    <filesize>166870</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668897983</timecreated>
+    <timemodified>1668898155</timemodified>
+    <source>video-poster-intro.jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295959">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64909</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295960">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64909</contextid>
+    <component>mod_page</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668898102</timecreated>
+    <timemodified>1668898155</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Help adult learners assess their own learning mindset​ (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295961">
+    <contenthash>291ebffb12009db6593b9af5923edc4810406781</contenthash>
+    <contextid>64909</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Math Speaker.jpg</filename>
+    <userid>26700</userid>
+    <filesize>166870</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1668897983</timecreated>
+    <timemodified>1668898155</timemodified>
+    <source>video-poster-intro.jpg</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295962">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64909</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295963">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64909</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668898102</timecreated>
+    <timemodified>1668898155</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Help adult learners assess their own learning mindset​ (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295964">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64910</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668898949</timecreated>
+    <timemodified>1668898963</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Consider starting all lessons with a prior knowledge warm-up activity​ (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295965">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64910</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295966">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64911</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1668898891</timecreated>
+    <timemodified>1668898902</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Use a graphic organizer to help adult learners set and evaluate their math goals (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295967">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64911</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295968">
+    <contenthash>72af3725a3823637ffdd6432d15edcd2493ebf5e</contenthash>
+    <contextid>64912</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>divider wave.png</filename>
+    <userid>26700</userid>
+    <filesize>61013</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672699730</timecreated>
+    <timemodified>1672699737</timemodified>
+    <source>Server files: Sandbox/Mathematics Development: Optimizing Relevance and Authenticity  Course Category: Disabilities and Equitable Outcomes/Flipping the Classroom (Page)/Page content/divider wave.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295969">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64912</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200581</timecreated>
+    <timemodified>1694200581</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295970">
+    <contenthash>6e4e81f5fbc01d3a86bb022b950821417a31765f</contenthash>
+    <contextid>64912</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>octae-aem-personalizereading.png</filename>
+    <userid>26700</userid>
+    <filesize>1165935</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1673024868</timecreated>
+    <timemodified>1673024885</timemodified>
+    <source>octae-aem-personalizereading.png</source>
+    <author>Rae Bastoni</author>
+    <license>cc-nc-nd</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295971">
+    <contenthash>aa84ea181f831024d3f10d82b373e762fe1ba4f4</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2721</itemid>
+    <filepath>/</filepath>
+    <filename>TRY IT YOURSELF.png</filename>
+    <userid>26700</userid>
+    <filesize>56564</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1672696037</timecreated>
+    <timemodified>1672696096</timemodified>
+    <source>Server files: Sandbox/Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities and Equitable Outcomes/Signs of Expert Learning: Learners​ ​ (Page)/Page content/TRY IT YOURSELF.png</source>
+    <author>Katey Armstrong</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="295972">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>64848</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>2721</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>26700</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1694200582</timecreated>
+    <timemodified>1694200582</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

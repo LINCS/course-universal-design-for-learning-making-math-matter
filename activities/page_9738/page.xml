@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2351" moduleid="9738" modulename="page" contextid="64882">
+  <page id="2351">
+    <name>3. Think-Pair-Share</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;strong&gt;Think-Pair-Share&lt;/strong&gt;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;is a popular instructional scaffold you can use to give students&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;time to talk and think about a new concept. As the name implies, students first&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;think about a topic (e.g., how would you solve this math problem?), then they pair&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;up with a classmate to discuss the topic, and finally, the pair shares their idea with&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;the class.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;span data-scheme-color="@424242,9," data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US" style=""&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/Try%20It%20Yourself.png" alt="" width="68" height="66" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try it Yourself:&lt;a href="$@PAGEVIEWBYID*9766@$"&gt; &lt;/a&gt;&lt;/strong&gt;&lt;a href="$@PAGEVIEWBYID*9766@$" target="_blank"&gt;Incorporate Think-Pair-Share&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;span data-scheme-color="@424242,9," data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;img src="@@PLUGINFILE@@/Divider%20Wave.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1690321233</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2336" moduleid="9723" modulename="page" contextid="64867">
+  <page id="2336">
+    <name>Math Anxiety is Transferable</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Research has shown that an instructor's own math anxiety can have negative consequences for&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;the math achievement of some students. In one study, the more anxious elementary school&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;teachers were about math, the more likely&amp;nbsp;girls (but not boys) were to hold beliefs such as "boys&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;are good at math, and girls are good at reading." Girls who held this belief in turn had lower&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;achievement in math than&amp;nbsp;girls who didn't, as well as&amp;nbsp;lower achievement&amp;nbsp;than boys&amp;nbsp;&lt;a href="$@PAGEVIEWBYID*9757@$" target="_blank"&gt;(Ramirez et al., 2018)&lt;/a&gt;.&lt;/span&gt;&lt;img src="@@PLUGINFILE@@/divider%20wave.png" alt="Divider Wave" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom" style="font-size: 1.7rem;"&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1690320554</timemodified>
+  </page>
+</activity>
